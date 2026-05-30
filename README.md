@@ -1624,6 +1624,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Read and write Tumblr Data | `OAuth` | Yes | Unknown |
 | [Twitch](https://dev.twitch.tv/docs) | Game Streaming API | `OAuth` | Yes | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data | `OAuth` | Yes | No |
+| [TwitterAPI.io](https://twitterapi.io) | Real-time Twitter/X data — search tweets, user profiles, followers/followings, mentions, replies, quotes, retweeters, and trending topics. No OAuth, single API key, pay-per-call. Also delivered as a hosted MCP server (mcp.twitterapi.io/mcp) for Claude, Cursor, and other AI agents | `apiKey` | Yes | Unknown |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
